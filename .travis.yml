@@ -1,0 +1,12 @@
+language: java
+jdk:
+  - openjdk8
+  - openjdk11
+jobs:
+  include:
+    # 1.2 Tests
+    - stage: test
+      jdk: openjdk11
+      script: mvn clean install package
+      env:
+      - JAVADOC=true

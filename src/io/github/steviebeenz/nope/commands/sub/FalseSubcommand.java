@@ -52,7 +52,7 @@ public class FalseSubcommand extends Subcommand {
 							"See https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token");
 					git = GitHub.connectUsingPassword(user, pass);
 				}
-				repo = git.getRepository("MSWS/NOPE");
+				repo = git.getRepository("steviebeenz/nope");
 			} catch (HttpException e) {
 				MSG.log("An error occured when attempting to authenticate with GitHub: " + e.getResponseCode());
 				MSG.log(e.getMessage());

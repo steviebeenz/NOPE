@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>NOPE</groupId>
   <artifactId>NOPE</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.8.2</version>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <resources>
@@ -44,6 +44,21 @@
           <source>1.8</source>
           <target>1.8</target>
         </configuration>
+      </plugin>
+      <plugin>
+        <artifactId>maven-javadoc-plugin</artifactId>
+        <version>2.9</version>
+        <executions>
+          <execution>
+            <id>attach-javadocs</id>
+            <goals>
+              <goal>jar</goal>
+            </goals>
+            <configuration>
+              <failOnError>false</failOnError>
+            </configuration>
+          </execution>
+        </executions>
       </plugin>
     </plugins>
   </build>
