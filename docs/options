@@ -1,0 +1,24 @@
+-classpath
+'D:/_reborncraft/nac/target/classes;C:/Users/stevi/.m2/repository/me/confuser/BanManager/5.10.0/BanManager-5.10.0.jar;C:/Users/stevi/.m2/repository/com/mojang/authlib/1.5.21/authlib-1.5.21.jar;C:/Users/stevi/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar;C:/Users/stevi/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar;C:/Users/stevi/.m2/repository/org/spigotmc/spigot/1.16.2-R0.1-SNAPSHOT/spigot-1.16.2-R0.1-SNAPSHOT.jar;C:/Users/stevi/.m2/repository/org/json/json/20200518/json-20200518.jar;C:/Users/stevi/.m2/repository/com/comphenix/executors/BukkitExecutors/1.1-SNAPSHOT/BukkitExecutors-1.1-SNAPSHOT.jar;C:/Users/stevi/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.2/jackson-annotations-2.10.2.jar;C:/Users/stevi/.m2/repository/me/clip/placeholderapi/2.10.6/placeholderapi-2.10.6.jar;C:/Users/stevi/.m2/repository/com/github/DevLeoko/AdvancedBan/2.2.1/AdvancedBan-2.2.1.jar;C:/Users/stevi/.m2/repository/cglib/cglib-nodep/3.2.5/cglib-nodep-3.2.5.jar;C:/Users/stevi/.m2/repository/com/google/guava/guava/17.0/guava-17.0.jar;C:/Users/stevi/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.2/jackson-core-2.10.2.jar;C:/Users/stevi/.m2/repository/com/gitlab/ruany/LiteBansAPI/0.3.3/LiteBansAPI-0.3.3.jar;C:/Users/stevi/.m2/repository/net/lapismc/LapisBansAPI/2.0.3/LapisBansAPI-2.0.3.jar;C:/Users/stevi/.m2/repository/com/comphenix/protocol/ProtocolLib/4.5.0/ProtocolLib-4.5.0.jar;C:/Users/stevi/.m2/repository/com/github/netherfoam/MaxBans/master-156239e1f1-1/MaxBans-master-156239e1f1-1.jar;C:/Users/stevi/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar;C:/Users/stevi/.m2/repository/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar;D:/_reborncraft/nac/mcmmo.jar;C:/Users/stevi/.m2/repository/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar;C:/Users/stevi/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.2/jackson-databind-2.10.2.jar;C:/Users/stevi/.m2/repository/io/netty/netty-all/4.1.50.Final/netty-all-4.1.50.Final.jar;C:/Users/stevi/.m2/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar;C:/Users/stevi/.m2/repository/me/badbones69/crazyenchantments-plugin/1.8-Dev-Build-v8/crazyenchantments-plugin-1.8-Dev-Build-v8.jar;C:/Users/stevi/.m2/repository/eu/mcdb/spicord-common/3.0.0-SNAPSHOT/spicord-common-3.0.0-SNAPSHOT.jar;C:/Users/stevi/.m2/repository/org/kohsuke/github-api/1.116/github-api-1.116.jar;C:/Users/stevi/.m2/repository/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'D:/_reborncraft/nac/src;D:/_reborncraft/nac/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2020. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'D:/_reborncraft/nac/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'NOPE 1.8.2 API'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' 'D:/_reborncraft/nac/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'NOPE 1.8.2 API'
