@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: eu.mcdb:spicord-common:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/eu/mcdb/spicord-common/3.0.0-SNAPSHOT/spicord-common-3.0.0-20200530.212647-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/eu/mcdb/spicord-common/3.0.0-SNAPSHOT/spicord-common-3.0.0-20200530.212647-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/eu/mcdb/spicord-common/3.0.0-SNAPSHOT/spicord-common-3.0.0-20200530.212647-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

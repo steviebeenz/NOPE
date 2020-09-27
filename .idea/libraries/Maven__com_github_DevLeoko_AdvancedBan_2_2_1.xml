@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.DevLeoko:AdvancedBan:2.2.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/DevLeoko/Advancedban/2.2.1/AdvancedBan-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/DevLeoko/AdvancedBan/2.2.1/AdvancedBan-2.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/DevLeoko/AdvancedBan/2.2.1/AdvancedBan-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

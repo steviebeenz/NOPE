@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: me.badbones69:crazyenchantments-plugin:1.8-Dev-Build-v8">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/badbones69/crazyenchantments-plugin/1.8-Dev-Build-v8/crazyenchantments-plugin-1.8-Dev-Build-v8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/me/badbones69/crazyenchantments-plugin/1.8-Dev-Build-v8/crazyenchantments-plugin-1.8-Dev-Build-v8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/badbones69/crazyenchantments-plugin/1.8-Dev-Build-v8/crazyenchantments-plugin-1.8-Dev-Build-v8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
