@@ -7,6 +7,11 @@ jobs:
     # 1.2 Tests
     - stage: test
       jdk: openjdk11
+      script: ls
+      env:
+      - JAVADOC=true
+    - stage: test
+      jdk: openjdk11
       script: mvn clean install package
       env:
       - JAVADOC=true
