@@ -1,0 +1,35 @@
+{
+  "Java": {
+    "beautifiers": [
+      "Pretty Diff"
+    ],
+    "indent_size": 1,
+    "indent_style": "tab",
+    "max_preserve_newlines": 1,
+    "quotes": "double",
+    "wrap_line_length": 50,
+    "align_assignments": true,
+    "break_chained_methods": true,
+    "indent_comments": true
+  },
+  "Markdown": {
+    "beautifiers": [
+      "Prettier"
+    ],
+    "wrap_line_length": 50,
+    "pragma_insert": false,
+    "pragma_require": false,
+    "wrap_prose": "always"
+  },
+  "JSON": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify"
+    ],
+    "indent_size": 4,
+    "indent_style": "space",
+    "max_preserve_newlines": 0,
+    "quotes": "double"
+  }
+}
