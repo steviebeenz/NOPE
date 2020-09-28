@@ -1,7 +1,13 @@
 name: NOPE
-main: io.github.steviebeenz.nope.NOPE
+
+  main: io.github.steviebeenz.nope.NOPE
+
+
 version: ${project.version}
-description: 1.16 Minecraft Anticheat
+
+  description: 1.16 Minecraft Anticheat
+
+
 api-version: 1.16
 author: Steviebeenz
 softdepend:
