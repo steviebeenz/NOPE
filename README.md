@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/steviebeenz/nope.svg?branch=master)](https://travis-ci.org/steviebeenz/nope)
+[![Build Status](https://travis-ci.org/steviebeenz/nope.svg?branch=master)](https://travis-ci.org/github/steviebeenz/nope)
 
 # NOPE Anti-Cheat
 A pretty cool Minecraft anti-cheat.
