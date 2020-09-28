@@ -12,7 +12,7 @@ package io.github.steviebeenz.nope.commands.sub;
 	import java.util.StringJoiner;
 
 	import io.github.steviebeenz.nope.listeners.TokenCreationListener;
-	import org.bukkit.Bukkit;
+import org.bukkit.Bukkit;
 	import org.bukkit.command.CommandSender;
 	import org.bukkit.plugin.Plugin;
 	import org.kohsuke.github.GHIssue;
@@ -47,7 +47,7 @@ public class FalseSubcommand extends Subcommand {
 					MSG.log("Attempting to login to GitHub via PAT");
 					git = GitHub.connect("NOPE", user);
 				} else {
-					MSG.warn("It is strongly recommended to use a PAT instead of username/password!");
+					MSG.warn("It is strongly recommended to use a PersonalAccessToken instead of username/password!");
 					MSG.warn(
 							"See https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token");
 					git = GitHub.connectUsingPassword(user, pass);
