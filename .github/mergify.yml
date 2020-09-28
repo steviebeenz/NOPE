@@ -1,7 +1,7 @@
 pull_request_rules:
   - name: automatic merge if author is foo
     conditions:
-      - author=restyled-io
+      - author=restyled-commits
       - status-success=Travis CI - Pull Request
     actions:
       merge:
