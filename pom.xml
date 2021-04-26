@@ -178,7 +178,7 @@
 		<dependency>
 			<groupId>me.badbones69</groupId>
 			<artifactId>crazyenchantments-plugin</artifactId>
-			<version>1.8-Dev-Build-v8</version>
+			<version>1.8-Dev-Build-v9</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
